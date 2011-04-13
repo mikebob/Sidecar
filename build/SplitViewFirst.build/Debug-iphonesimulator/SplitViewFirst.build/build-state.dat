@@ -1,0 +1,1399 @@
+TSplitViewFirst
+v7
+r0
+t298182747.891103
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+cCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/MainWindow.xib"
+cCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib"
+cCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+cProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+cGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+cTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C13AF6F0000000000000110
+t1276358511
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004B9F1E7D0000000000001A1A
+t1268719229
+s6682
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.h
+c000000004C159BCB00000000000002BB
+t1276484555
+s699
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m
+c000000004C15A50F0000000000000E7D
+t1276486927
+s3709
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.h
+c000000004C158E9400000000000001AE
+t1276481172
+s430
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m
+c000000004C15A20400000000000012CB
+t1276486148
+s4811
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/DetailView.xib
+c000000004C15A0F80000000000005075
+t1276485880
+s20597
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/attractions.plist
+c000000004C1589F40000000000000540
+t1276479988
+s1344
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276487034
+s272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276487034
+s102
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276486033
+s1115
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276487034
+s29788
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+t1276481508
+s753
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276487034
+s45272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276486149
+s42532
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C159FF5000000000000033F
+t1276485621
+s831
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276485622
+s46600
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276485622
+s6060
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.h
+c000000004C159BCB00000000000002BB
+t1276484555
+s699
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m
+c000000004C159CC20000000000000E7B
+t1276484802
+s3707
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.h
+c000000004C158E9400000000000001AE
+t1276481172
+s430
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m
+c000000004C15996700000000000012AB
+t1276483943
+s4779
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/DetailView.xib
+c000000004C159BFF0000000000005075
+t1276484607
+s20597
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/attractions.plist
+c000000004C1589F40000000000000540
+t1276479988
+s1344
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276484802
+s272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276484802
+s102
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276484794
+s1115
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276484802
+s29812
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+t1276481508
+s753
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276484802
+s45280
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276484795
+s42400
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C159CBA000000000000034F
+t1276484794
+s847
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276484795
+s46608
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276484795
+s6068
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/DetailViewController.h
+c000000004C1567940000000000000269
+t1276471188
+s617
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/DetailViewController.m
+c000000004C1567940000000000000DCA
+t1276471188
+s3530
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/RootViewController.h
+c000000004C158E9400000000000001AE
+t1276481172
+s430
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/RootViewController.m
+c000000004C15996700000000000012AB
+t1276483943
+s4779
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/DetailView.xib
+c000000004C1567940000000000005009
+t1276471188
+s20489
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/attractions.plist
+c000000004C1589F40000000000000540
+t1276479988
+s1344
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276483878
+s272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276483878
+s102
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276471451
+s1431
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276483878
+s29244
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+t1276481508
+s753
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276481508
+s43672
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276483878
+s42152
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C158D6400000000000002DB
+t1276480868
+s731
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276481508
+s46416
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276480869
+s6012
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.h
+c000000004C15B0DB00000000000002BA
+t1276489947
+s698
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m
+c000000004C15B0C60000000000000EBB
+t1276489926
+s3771
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.h
+c000000004C158E9400000000000001AE
+t1276481172
+s430
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m
+c000000004C15A96C00000000000012C4
+t1276488044
+s4804
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib
+c000000004C15AADB000000000000575B
+t1276488411
+s22363
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/attractions.plist
+c000000004C1589F40000000000000540
+t1276479988
+s1344
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276489947
+s272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276489947
+s102
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276488414
+s1582
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276489947
+s29708
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+t1276481508
+s753
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276489947
+s45400
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276489947
+s42516
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C15A7F8000000000000031B
+t1276487672
+s795
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276489947
+s46584
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276487672
+s6044
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.h
+c000000004C1567940000000000000269
+t1276471188
+s617
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m
+c000000004C1567940000000000000DCA
+t1276471188
+s3530
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.h
+c000000004C158E9400000000000001AE
+t1276481172
+s430
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m
+c000000004C15996700000000000012AB
+t1276483943
+s4779
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/DetailView.xib
+c000000004C1567940000000000005009
+t1276471188
+s20489
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/attractions.plist
+c000000004C1589F40000000000000540
+t1276479988
+s1344
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276483878
+s272
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276483878
+s102
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276471451
+s1431
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276483878
+s29244
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+t1276481508
+s753
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276481508
+s43672
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276483878
+s42152
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C158D6400000000000002DB
+t1276480868
+s731
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276481508
+s46416
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276480869
+s6012
+
+N/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.h
+c000000004C1567940000000000000269
+t1276471188
+s617
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m
+c000000004C1567940000000000000DCA
+t1276471188
+s3530
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.h
+c000000004C1567940000000000000197
+t1276471188
+s407
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m
+c000000004C15679400000000000010CD
+t1276471188
+s4301
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.h
+c000000004C1567940000000000000329
+t1276471188
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m
+c000000004C1567940000000000000429
+t1276471188
+s1065
+i"SplitViewFirstAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/sallardice/Documents/SplitViewFirst/DetailView.xib
+c000000004C1567940000000000005009
+t1276471188
+s20489
+
+N/Users/sallardice/Documents/SplitViewFirst/MainWindow.xib
+c000000004C15679400000000000069E4
+t1276471188
+s27108
+
+N/Users/sallardice/Documents/SplitViewFirst/SplitViewFirst_Prefix.pch
+c000000004C156794000000000000014E
+t1276471188
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app
+t1276471452
+s238
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+t1276471452
+s102
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib
+t1276471451
+s1431
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+t1276471451
+s826
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib
+t1276471451
+s1935
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo
+t1276471451
+s8
+
+N/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+t1276471452
+s28960
+
+N/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+t1276471452
+s43612
+
+N/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+t1276471452
+s41316
+
+N/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList
+c000000004C15689B0000000000000263
+t1276471451
+s611
+
+N/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+t1276471452
+s46332
+
+N/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+t1276471452
+s5952
+
+N/Users/sallardice/Documents/SplitViewFirst/main.m
+c000000004C1567940000000000000173
+t1276471188
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch.gch
+t1276485622
+s13805456
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch.gch
+t1276471452
+s13805456
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch.gch
+t1276487672
+s13805456
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch.gch
+t1276484795
+s13805456
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dvyibsdnsryqynhbrdhdickykzhb/SplitViewFirst_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch.gch
+t1276480869
+s13805456
+
+NSplitViewFirst-Info.plist
+c000000004C15679400000000000004D6
+t1276471188
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298182747#298182747#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298179834.479787
+e298179834.595702
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m298179834#298179834#0(0"0(0#0#128"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m4300911832#2708"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/DetailViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298177602.447033
+e298177602.574634
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m298177602#298177602#0(0"0(0#0#132"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m4300911832#2752"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/DetailViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298182747.764479
+e298182747.850819
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m298182747#298182747#0(0"0(0#0#119"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m4300911832#2609"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/DetailViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298174308.660187
+e298174308.742258
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m298174308#298174308#0(0"0(0#0#103"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m4300911832#2433"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/DetailViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o /Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298164252.479879
+e298164252.636238
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o
+x/Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m298164252#298164252#0(0"0(0#0#73"/Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m4300911832#2081"    cd /Users/sallardice/Documents/SplitViewFirst    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -I/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/include -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386 -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch -c /Users/sallardice/Documents/SplitViewFirst/Classes/DetailViewController.m -o /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298178949.366451
+e298178949.485136
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m298178949#298178949#0(0"0(0#0#126"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m4300911832#2704"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/RootViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298177595.284594
+e298177595.376170
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m298177595#298177595#0(0"0(0#0#130"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m4300911832#2748"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/RootViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298182747.763652
+e298182747.849870
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m298182747#298182747#0(0"0(0#0#117"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m4300911832#2605"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/RootViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298176678.069601
+e298176678.217441
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m298176678#298176678#0(0"0(0#0#101"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m4300911832#2429"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/RootViewController.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o /Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298164252.478600
+e298164252.642698
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o
+x/Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m298164252#298164252#0(0"0(0#0#71"/Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m4300911832#2077"    cd /Users/sallardice/Documents/SplitViewFirst    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -I/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/include -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386 -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch -c /Users/sallardice/Documents/SplitViewFirst/Classes/RootViewController.m -o /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298178422.079738
+e298178422.170059
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m298178422#298178422#0(0"0(0#0#133"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m4300911832#2718"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/Classes/SplitViewFirstAppDelegate.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298177595.283664
+e298177595.366550
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@145"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m298177595#298177595#0(0"0(0#0#137"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m4300911832#2762"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/Classes/SplitViewFirstAppDelegate.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298182747.762584
+e298182747.843247
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m298182747#298182747#0(0"0(0#0#124"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m4300911832#2619"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/Classes/SplitViewFirstAppDelegate.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298174308.600481
+e298174308.669557
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m298174308#298174308#0(0"0(0#0#108"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m7311670065138790400#2443"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/Classes/SplitViewFirstAppDelegate.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o /Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298164252.477287
+e298164252.643804
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o
+x/Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m298164252#298164252#0(0"0(0#0#78"/Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m4300911832#2091"    cd /Users/sallardice/Documents/SplitViewFirst    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -I/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/include -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386 -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch -c /Users/sallardice/Documents/SplitViewFirst/Classes/SplitViewFirstAppDelegate.m -o /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirstAppDelegate.o0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298178422.078633
+e298178422.137443
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m298178422#298178422#0(0"0(0#0#104"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m4300911832#2668"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/main.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298177595.282585
+e298177595.349622
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m298177595#298177595#0(0"0(0#0#108"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m4300911832#2712"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/main.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298180472.713102
+e298180472.780797
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m298180472#298180472#0(0"0(0#0#95"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m4300911832#2569"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/main.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298173669.225435
+e298173669.288528
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m298173669#298173669#0(0"0(0#0#79"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m4300911832#2393"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/main.m" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o /Users/sallardice/Documents/SplitViewFirst/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298164252.475886
+e298164252.612972
+r1
+xCompileC
+xbuild/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o
+x/Users/sallardice/Documents/SplitViewFirst/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sallardice/Documents/SplitViewFirst/main.m298164252#298164252#0(0"0(0#0#49"/Users/sallardice/Documents/SplitViewFirst/main.m4300911832#2041"    cd /Users/sallardice/Documents/SplitViewFirst    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -I/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/include -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386 -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources -include /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch -c /Users/sallardice/Documents/SplitViewFirst/main.m -o /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/DetailView.xib"
+s298178833.648178
+e298178833.917821
+r1
+xCompileXIB
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib298178833#298178833#0(0"0(0#0#112"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/DetailView.xib4300911832#670"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/DetailView.xib"0#
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/DetailView.xib"
+s298177594.358572
+e298177594.636992
+r1
+xCompileXIB
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib298177594#298177594#0(0"0(0#0#116"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/DetailView.xib8316287529896133632#682"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/DetailView.xib"0#
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/DetailView.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib"
+s298181214.701348
+e298181214.996228
+r1
+xCompileXIB
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib298181214#298181214#0(0"0(0#0#103"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib4300911832#643"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/DetailView.xib"0#
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/DetailView.xib"
+r0
+
+CCompileXIB "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/MainWindow.xib"
+r0
+
+CCompileXIB /Users/sallardice/Documents/SplitViewFirst/DetailView.xib
+s298164251.605514
+e298164251.894913
+r1
+xCompileXIB
+x/Users/sallardice/Documents/SplitViewFirst/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib298164251#298164251#0(0"0(0#0#57"/Users/sallardice/Documents/SplitViewFirst/DetailView.xib4300911832#499"    cd /Users/sallardice/Documents/SplitViewFirst    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/DetailView.nib /Users/sallardice/Documents/SplitViewFirst/DetailView.xib0#
+
+CCompileXIB /Users/sallardice/Documents/SplitViewFirst/MainWindow.xib
+s298164251.603740
+e298164251.892536
+r1
+xCompileXIB
+x/Users/sallardice/Documents/SplitViewFirst/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298164251#298164251#0(0"0(0#0#57"/Users/sallardice/Documents/SplitViewFirst/MainWindow.xib4300911832#499"    cd /Users/sallardice/Documents/SplitViewFirst    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/MainWindow.nib /Users/sallardice/Documents/SplitViewFirst/MainWindow.xib0#
+
+CCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+r0
+
+CCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+r0
+
+CCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+r0
+
+CCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+r0
+
+CCopyPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist" attractions.plist
+s298174308.425625
+e298174308.600170
+r1
+xCopyPlistFile
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/attractions.plist
+xattractions.plist
+lSLF07#2@22"Copy attractions.plist298174308#298174308#0(0"0(0#0#90"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/attractions.plist4300911832#471"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 attractions.plist --outdir "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app"0#
+
+CGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+s298179834.616234
+e298179834.633195
+r1
+xGenerateDSYMFile
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SplitViewFirst.app.dSYM build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298179834#298179834#0(0"0(0#0#159"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst4300911832#587"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+s298177602.596222
+e298177602.613072
+r1
+xGenerateDSYMFile
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SplitViewFirst.app.dSYM build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298177602#298177602#0(0"0(0#0#163"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst4300911832#599"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+r0
+
+CGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+s298182747.871681
+e298182747.888548
+r1
+xGenerateDSYMFile
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SplitViewFirst.app.dSYM build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298182747#298182747#0(0"0(0#0#150"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst4300911832#560"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM" "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"
+s298176678.240182
+e298176678.256575
+r1
+xGenerateDSYMFile
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SplitViewFirst.app.dSYM build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298176678#298176678#0(0"0(0#0#134"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst4300911832#512"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+s298164252.788481
+e298164252.824819
+r1
+xGenerateDSYMFile
+x/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM
+x/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SplitViewFirst.app.dSYM build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298164252#298164252#0(0"0(0#0#104"/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst4300911832#416"    cd /Users/sallardice/Documents/SplitViewFirst    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst -o /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app.dSYM0#
+
+CLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+s298179834.595807
+e298179834.616140
+r1
+xLd
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+xnormal
+xi386
+lSLF07#2@164"Link /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298179834#298179834#0(0"0(0#0#0"4300911832#1202"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" -filelist "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"0#
+
+CLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+s298177602.574727
+e298177602.596120
+r1
+xLd
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+xnormal
+xi386
+lSLF07#2@168"Link /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298177602#298177602#0(0"0(0#0#0"4300911832#1222"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" -filelist "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"0#
+
+CLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+r0
+
+CLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+s298182747.850899
+e298182747.871596
+r1
+xLd
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+xnormal
+xi386
+lSLF07#2@155"Link /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298182747#298182747#0(0"0(0#0#0"4300911832#1157"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" -filelist "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"0#
+
+CLd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst" normal i386
+s298176678.217543
+e298176678.240104
+r1
+xLd
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+xnormal
+xi386
+lSLF07#2@139"Link /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298176678#298176678#0(0"0(0#0#0"4300911832#1077"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" -filelist "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst"0#
+
+CLd /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst normal i386
+s298164252.643862
+e298164252.788389
+r1
+xLd
+x/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst
+xnormal
+xi386
+lSLF07#2@109"Link /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst298164252#298164252#0(0"0(0#0#0"4300911832#917"    cd /Users/sallardice/Documents/SplitViewFirst    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -filelist /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/Objects-normal/i386/SplitViewFirst.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/SplitViewFirst0#
+
+CProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist" SplitViewFirst-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist SplitViewFirst-Info.plist
+s298164251.591625
+e298164251.603411
+r1
+xProcessInfoPlistFile
+x/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist
+xSplitViewFirst-Info.plist
+lSLF07#2@33"Process SplitViewFirst-Info.plist298164251#298164251#0(0"0(0#0#68"/Users/sallardice/Documents/SplitViewFirst/SplitViewFirst-Info.plist32088598321168504#512"    cd /Users/sallardice/Documents/SplitViewFirst    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SplitViewFirst-Info.plist -genpkginfo /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app/Info.plist0#
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298178421.573399
+e298178422.078511
+r1
+xProcessPCH
+x/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch.gch
+xSplitViewFirst_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SplitViewFirst_Prefix.pch298178421#298178422#0(0"0(0#0#123"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/SplitViewFirst_Prefix.pch8093865128201905152#2492"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/SplitViewFirst_Prefix.pch" -o /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-allwdxkgsbhgjefdrnhxmxradajs/SplitViewFirst_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298164251.895221
+e298164252.475762
+r1
+xProcessPCH
+x/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch.gch
+xSplitViewFirst_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SplitViewFirst_Prefix.pch298164251#298164252#0(0"0(0#0#68"/Users/sallardice/Documents/SplitViewFirst/SplitViewFirst_Prefix.pch4300911832#1922"    cd /Users/sallardice/Documents/SplitViewFirst    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap -iquote /Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap -F/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator -I/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/include -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386 -I/Users/sallardice/Documents/SplitViewFirst/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources -c /Users/sallardice/Documents/SplitViewFirst/SplitViewFirst_Prefix.pch -o /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bofshfrbyjknwpfvaqptdcfhgggm/SplitViewFirst_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298180472.191444
+e298180472.712987
+r1
+xProcessPCH
+x/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch.gch
+xSplitViewFirst_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SplitViewFirst_Prefix.pch298180472#298180472#0(0"0(0#0#114"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/SplitViewFirst_Prefix.pch8093865128201905152#2402"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/SplitViewFirst_Prefix.pch" -o /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-bpzpgtpwclfrjfffnrkglegbvvsb/SplitViewFirst_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298177594.637153
+e298177595.282488
+r1
+xProcessPCH
+x/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch.gch
+xSplitViewFirst_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SplitViewFirst_Prefix.pch298177594#298177595#0(0"0(0#0#127"/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/SplitViewFirst_Prefix.pch4300911832#2532"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/SplitViewFirst_Prefix.pch" -o /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dtsbixacmcjjqlbcopuqhwhknngr/SplitViewFirst_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-dvyibsdnsryqynhbrdhdickykzhb/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch.gch SplitViewFirst_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298173668.683159
+e298173669.225308
+r1
+xProcessPCH
+x/var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch.gch
+xSplitViewFirst_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SplitViewFirst_Prefix.pch298173668#298173669#0(0"0(0#0#98"/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/SplitViewFirst_Prefix.pch8093865128201905152#2242"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-generated-files.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-own-target-headers.hmap" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-all-target-headers.hmap" -iquote "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/SplitViewFirst-project-headers.hmap" "-F/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/include" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources/i386" "-I/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/SplitViewFirst.build/Debug-iphonesimulator/SplitViewFirst.build/DerivedSources" -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/SplitViewFirst_Prefix.pch" -o /var/folders/8p/8poOkBjwEzWPvlSU+2yNHk+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/SplitViewFirst_Prefix-gksjpccgaivrwagibgawgcbngasl/SplitViewFirst_Prefix.pch.gch0#
+
+CTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app"
+s298179834.633281
+e298179834.636243
+r1
+xTouch
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app
+lSLF07#2@150"Touch /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app298179834#298179834#0(0"0(0#0#0"4300911832#407"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Finished/build/Debug-iphonesimulator/SplitViewFirst.app"0#
+
+CTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app"
+s298177602.613176
+e298177602.615986
+r1
+xTouch
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app
+lSLF07#2@154"Touch /Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app298177602#298177602#0(0"0(0#0#0"4300911832#415"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter copy/build/Debug-iphonesimulator/SplitViewFirst.app"0#
+
+CTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 03/SplitViewWithPlistAndWebView_Starter/build/Debug-iphonesimulator/SplitViewFirst.app"
+r0
+
+CTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app"
+s298182747.888621
+e298182747.891074
+r1
+xTouch
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app
+lSLF07#2@141"Touch /Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app298182747#298182747#0(0"0(0#0#0"4300911832#389"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/03 04/SplitViewCustomizing_Starter/build/Debug-iphonesimulator/SplitViewFirst.app"0#
+
+CTouch "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app"
+s298176678.256675
+e298176678.259386
+r1
+xTouch
+x/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app
+lSLF07#2@125"Touch /Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app298176678#298176678#0(0"0(0#0#0"4300911832#357"    cd "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sallardice/Documents/Exercise Files/Chapter 03/SplitViewWithPlist/build/Debug-iphonesimulator/SplitViewFirst.app"0#
+
+CTouch /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app
+s298164252.824886
+e298164252.827862
+r1
+xTouch
+x/Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app
+lSLF07#2@95"Touch /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app298164252#298164252#0(0"0(0#0#0"4300911832#293"    cd /Users/sallardice/Documents/SplitViewFirst    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sallardice/Documents/SplitViewFirst/build/Debug-iphonesimulator/SplitViewFirst.app0#
+
